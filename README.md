@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**adce626/adce626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **adce626**, a Mobile Communication Engineer and Cybersecurity enthusiast. I specialize in network analysis, device penetration, and Open-Source Intelligence (OSINT).
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **CTF challenges** and **security testing**.
+- 🌱 I’m currently learning **advanced penetration testing techniques** and **dark web analysis**.
+- 👯 I’m looking to collaborate on **cybersecurity projects**, **vulnerability assessments**, and **OSINT research**.
+- 🤔 I’m looking for help with **improving my web application security** skills.
+- 💬 Ask me about **ethical hacking**, **network security**, and **OSINT**.
+- 📫 How to reach me: You can contact me via GitHub or email me at **adce626@example.com**.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I once found a critical vulnerability in a government website and helped secure it!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- You can add more here as you like! -->
